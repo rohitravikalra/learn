@@ -1,0 +1,5 @@
+C:\Users\rohit.kalra\Projects\learn\conosleApp1\bin\Debug\net5.0\publish\conosleApp1.exe
+C:\Users\rohit.kalra\Projects\learn\conosleApp1\bin\Debug\net5.0\publish\conosleApp1.dll
+C:\Users\rohit.kalra\Projects\learn\conosleApp1\bin\Debug\net5.0\publish\conosleApp1.deps.json
+C:\Users\rohit.kalra\Projects\learn\conosleApp1\bin\Debug\net5.0\publish\conosleApp1.runtimeconfig.json
+C:\Users\rohit.kalra\Projects\learn\conosleApp1\bin\Debug\net5.0\publish\conosleApp1.pdb
