@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: deploy-frist
+  name: deploy-frist
+spec:
+  replicas: 10
+  selector:
+    matchLabels:
+      app: deploy-frist
+  template:
+    metadata:
+      labels:
+        app: deploy-frist
+    spec:
+      containers:
+        - image: httpd:alpine3.18
+          name: httpd
+  strategy:
+    type: Recreate
